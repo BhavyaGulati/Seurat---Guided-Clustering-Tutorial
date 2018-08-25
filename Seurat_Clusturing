@@ -1,0 +1,1000 @@
+downloaded 173 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/latticeExtra_0.6-28.tgz'
+Content type 'application/x-gzip' length 2195491 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/acepack_1.4.1.tgz'
+Content type 'application/x-gzip' length 81401 bytes (79 KB)
+==================================================
+downloaded 79 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/gridExtra_2.3.tgz'
+Content type 'application/x-gzip' length 1102824 bytes (1.1 MB)
+==================================================
+downloaded 1.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/htmlTable_1.12.tgz'
+Content type 'application/x-gzip' length 315098 bytes (307 KB)
+==================================================
+downloaded 307 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/viridis_0.5.1.tgz'
+Content type 'application/x-gzip' length 1866361 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/mime_0.5.tgz'
+Content type 'application/x-gzip' length 33885 bytes (33 KB)
+==================================================
+downloaded 33 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/curl_3.2.tgz'
+Content type 'application/x-gzip' length 427918 bytes (417 KB)
+==================================================
+downloaded 417 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/openssl_1.0.2.tgz'
+Content type 'application/x-gzip' length 2475153 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/stringi_1.2.4.tgz'
+Content type 'application/x-gzip' length 13584342 bytes (13.0 MB)
+==================================================
+downloaded 13.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/Rdpack_0.9-0.tgz'
+Content type 'application/x-gzip' length 780875 bytes (762 KB)
+==================================================
+downloaded 762 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/zoo_1.8-3.tgz'
+Content type 'application/x-gzip' length 1086750 bytes (1.0 MB)
+==================================================
+downloaded 1.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/iterators_1.0.10.tgz'
+Content type 'application/x-gzip' length 332375 bytes (324 KB)
+==================================================
+downloaded 324 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/snow_0.4-2.tgz'
+Content type 'application/x-gzip' length 105273 bytes (102 KB)
+==================================================
+downloaded 102 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/bit64_0.9-7.tgz'
+Content type 'application/x-gzip' length 550974 bytes (538 KB)
+==================================================
+downloaded 538 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/ggplot2_3.0.0.tgz'
+Content type 'application/x-gzip' length 3577658 bytes (3.4 MB)
+==================================================
+downloaded 3.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/cowplot_0.9.3.tgz'
+Content type 'application/x-gzip' length 2457197 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/ROCR_1.0-7.tgz'
+Content type 'application/x-gzip' length 200837 bytes (196 KB)
+==================================================
+downloaded 196 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/mixtools_1.1.0.tgz'
+Content type 'application/x-gzip' length 1413097 bytes (1.3 MB)
+==================================================
+downloaded 1.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/lars_1.2.tgz'
+Content type 'application/x-gzip' length 226201 bytes (220 KB)
+==================================================
+downloaded 220 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/ica_1.0-2.tgz'
+Content type 'application/x-gzip' length 73422 bytes (71 KB)
+==================================================
+downloaded 71 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/tsne_0.1-3.tgz'
+Content type 'application/x-gzip' length 21437 bytes (20 KB)
+==================================================
+downloaded 20 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/Rtsne_0.13.tgz'
+Content type 'application/x-gzip' length 380286 bytes (371 KB)
+==================================================
+downloaded 371 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/fpc_2.1-11.1.tgz'
+Content type 'application/x-gzip' length 659237 bytes (643 KB)
+==================================================
+downloaded 643 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/ape_5.1.tgz'
+Content type 'application/x-gzip' length 2538819 bytes (2.4 MB)
+==================================================
+downloaded 2.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/pbapply_1.3-4.tgz'
+Content type 'application/x-gzip' length 65215 bytes (63 KB)
+==================================================
+downloaded 63 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/igraph_1.2.2.tgz'
+Content type 'application/x-gzip' length 6872298 bytes (6.6 MB)
+==================================================
+downloaded 6.6 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/RANN_2.6.tgz'
+Content type 'application/x-gzip' length 175548 bytes (171 KB)
+==================================================
+downloaded 171 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/dplyr_0.7.6.tgz'
+Content type 'application/x-gzip' length 5686536 bytes (5.4 MB)
+==================================================
+downloaded 5.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/RColorBrewer_1.1-2.tgz'
+Content type 'application/x-gzip' length 52941 bytes (51 KB)
+==================================================
+downloaded 51 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/irlba_2.3.2.tgz'
+Content type 'application/x-gzip' length 317546 bytes (310 KB)
+==================================================
+downloaded 310 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/reshape2_1.4.3.tgz'
+Content type 'application/x-gzip' length 286207 bytes (279 KB)
+==================================================
+downloaded 279 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/gplots_3.0.1.tgz'
+Content type 'application/x-gzip' length 656430 bytes (641 KB)
+==================================================
+downloaded 641 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/Rcpp_0.12.18.tgz'
+Content type 'application/x-gzip' length 4611027 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/dtw_1.20-1.tgz'
+Content type 'application/x-gzip' length 784947 bytes (766 KB)
+==================================================
+downloaded 766 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/SDMTools_1.1-221.tgz'
+Content type 'application/x-gzip' length 243836 bytes (238 KB)
+==================================================
+downloaded 238 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/Hmisc_4.1-1.tgz'
+Content type 'application/x-gzip' length 3007285 bytes (2.9 MB)
+==================================================
+downloaded 2.9 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/httr_1.3.1.tgz'
+Content type 'application/x-gzip' length 447943 bytes (437 KB)
+==================================================
+downloaded 437 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/tidyr_0.8.1.tgz'
+Content type 'application/x-gzip' length 637948 bytes (622 KB)
+==================================================
+downloaded 622 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/ggridges_0.5.0.tgz'
+Content type 'application/x-gzip' length 2191570 bytes (2.1 MB)
+==================================================
+downloaded 2.1 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/metap_1.0.tgz'
+Content type 'application/x-gzip' length 368155 bytes (359 KB)
+==================================================
+downloaded 359 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/lmtest_0.9-36.tgz'
+Content type 'application/x-gzip' length 348464 bytes (340 KB)
+==================================================
+downloaded 340 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/fitdistrplus_1.0-9.tgz'
+Content type 'application/x-gzip' length 2406962 bytes (2.3 MB)
+==================================================
+downloaded 2.3 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/png_0.1-7.tgz'
+Content type 'application/x-gzip' length 353547 bytes (345 KB)
+==================================================
+downloaded 345 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/doSNOW_1.0.16.tgz'
+Content type 'application/x-gzip' length 26308 bytes (25 KB)
+==================================================
+downloaded 25 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/reticulate_1.10.tgz'
+Content type 'application/x-gzip' length 1589466 bytes (1.5 MB)
+==================================================
+downloaded 1.5 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/foreach_1.4.4.tgz'
+Content type 'application/x-gzip' length 413498 bytes (403 KB)
+==================================================
+downloaded 403 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/hdf5r_1.0.0.tgz'
+Content type 'application/x-gzip' length 4003915 bytes (3.8 MB)
+==================================================
+downloaded 3.8 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/RcppEigen_0.3.3.4.0.tgz'
+Content type 'application/x-gzip' length 4648821 bytes (4.4 MB)
+==================================================
+downloaded 4.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/RcppProgress_0.4.1.tgz'
+Content type 'application/x-gzip' length 19783 bytes (19 KB)
+==================================================
+downloaded 19 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/Seurat_2.3.4.tgz'
+Content type 'application/x-gzip' length 2653423 bytes (2.5 MB)
+==================================================
+downloaded 2.5 MB
+
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+
+The downloaded binary packages are in
+	/var/folders/mb/sr0_v_m91rl69s32ds5rgy3r0000gn/T//RtmplW7s4q/downloaded_packages
+installing the source package 'plotly'
+
+trying URL 'https://cran.rstudio.com/src/contrib/plotly_4.8.0.tar.gz'
+Content type 'application/x-gzip' length 1860673 bytes (1.8 MB)
+==================================================
+downloaded 1.8 MB
+
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+* installing *source* package 'plotly' ...
+** package 'plotly' successfully unpacked and MD5 sums checked
+** R
+** data
+*** moving datasets to lazyload DB
+** demo
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** testing if installed package can be loaded
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+* DONE (plotly)
+
+The downloaded source packages are in
+	'/private/var/folders/mb/sr0_v_m91rl69s32ds5rgy3r0000gn/T/RtmplW7s4q/downloaded_packages'
+> library(Seurat)
+Loading required package: ggplot2
+Loading required package: cowplot
+
+Attaching package: 'cowplot'
+
+The following object is masked from 'package:ggplot2':
+
+    ggsave
+
+Loading required package: Matrix
+> 
+> library(Seurat)
+> pbmc.data <- Read10X(data.dir = "~/Downloads/filtered_gene_bc_matrices/hg19/")
+> 
+> # Examine the memory savings between regular and sparse matrices
+> dense.size <- object.size(x = as.matrix(x = pbmc.data))
+> dense.size
+709548272 bytes
+> sparse.size <- object.size(x = pbmc.data)
+> sparse.size
+38998720 bytes
+> dense.size/sparse.size
+18.2 bytes
+> # Initialize the Seurat object with the raw (non-normalized data).  Keep all
+> # genes expressed in >= 3 cells (~0.1% of the data). Keep all cells with at
+> # least 200 detected genes
+> pbmc <- CreateSeuratObject(raw.data = pbmc.data, min.cells = 3, min.genes = 200, 
++                            project = "10X_PBMC")
+> # The number of genes and UMIs (nGene and nUMI) are automatically calculated
+> # for every object by Seurat.  For non-UMI data, nUMI represents the sum of
+> # the non-normalized values within a cell We calculate the percentage of
+> # mitochondrial genes here and store it in percent.mito using AddMetaData.
+> # We use object@raw.data since this represents non-transformed and
+> # non-log-normalized counts The % of UMI mapping to MT-genes is a common
+> # scRNA-seq QC metric.
+> mito.genes <- grep(pattern = "^MT-", x = rownames(x = pbmc@data), value = TRUE)
+> percent.mito <- Matrix::colSums(pbmc@raw.data[mito.genes, ])/Matrix::colSums(pbmc@raw.data)
+> 
+> # AddMetaData adds columns to object@meta.data, and is a great place to
+> # stash QC stats
+> pbmc <- AddMetaData(object = pbmc, metadata = percent.mito, col.name = "percent.mito")
+> VlnPlot(object = pbmc, features.plot = c("nGene", "nUMI", "percent.mito"), nCol = 3)
+> # GenePlot is typically used to visualize gene-gene relationships, but can
+> # be used for anything calculated by the object, i.e. columns in
+> # object@meta.data, PC scores etc.  Since there is a rare subset of cells
+> # with an outlier level of high mitochondrial percentage and also low UMI
+> # content, we filter these as well
+> par(mfrow = c(1, 2))
+> GenePlot(object = pbmc, gene1 = "nUMI", gene2 = "percent.mito")
+> GenePlot(object = pbmc, gene1 = "nUMI", gene2 = "nGene")
+> # We filter out cells that have unique gene counts over 2,500 or less than
+> # 200 Note that low.thresholds and high.thresholds are used to define a
+> # 'gate'.  -Inf and Inf should be used if you don't want a lower or upper
+> # threshold.
+> pbmc <- FilterCells(object = pbmc, subset.names = c("nGene", "percent.mito"), 
++                     low.thresholds = c(200, -Inf), high.thresholds = c(2500, 0.05))
+> pbmc <- NormalizeData(object = pbmc, normalization.method = "LogNormalize", 
++                       scale.factor = 10000)
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+> pbmc <- FindVariableGenes(object = pbmc, mean.function = ExpMean, dispersion.function = LogVMR, 
++                           x.low.cutoff = 0.0125, x.high.cutoff = 3, y.cutoff = 0.5)
+Calculating gene means
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating gene variance to mean ratios
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+TEXT_SHOW_BACKTRACE environmental variable.
+> length(x = pbmc@var.genes)
+[1] 1838
+> pbmc <- ScaleData(object = pbmc, vars.to.regress = c("nUMI", "percent.mito"))
+Regressing out: nUMI, percent.mito
+  |                                             |   0%During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+  |=============================================| 100%
+Time Elapsed:  18.4361109733582 secs
+Scaling data matrix
+  |=============================================| 100%
+> pbmc <- RunPCA(object = pbmc, pc.genes = pbmc@var.genes, do.print = TRUE, pcs.print = 1:5, 
++                genes.print = 5)
+[1] "PC1"
+[1] "CST3"   "TYROBP" "FCN1"   "LST1"   "AIF1"  
+[1] ""
+[1] "PTPRCAP" "IL32"    "LTB"     "CD2"     "CTSW"   
+[1] ""
+[1] ""
+[1] "PC2"
+[1] "NKG7" "GZMB" "PRF1" "CST7" "GZMA"
+[1] ""
+[1] "CD79A"    "MS4A1"    "HLA-DQA1" "TCL1A"   
+[5] "HLA-DQB1"
+[1] ""
+[1] ""
+[1] "PC3"
+[1] "PF4"   "PPBP"  "SDPR"  "SPARC" "GNG11"
+[1] ""
+[1] "CYBA"     "HLA-DPA1" "HLA-DPB1" "HLA-DRB1"
+[5] "CD37"    
+[1] ""
+[1] ""
+[1] "PC4"
+[1] "IL32"   "GIMAP7" "AQP3"   "FYB"    "MAL"   
+[1] ""
+[1] "CD79A"    "HLA-DQA1" "CD79B"    "MS4A1"   
+[5] "HLA-DQB1"
+[1] ""
+[1] ""
+[1] "PC5"
+[1] "FCER1A"  "LGALS2"  "MS4A6A"  "S100A8"  "CLEC10A"
+[1] ""
+[1] "FCGR3A"        "CTD-2006K23.1" "IFITM3"       
+[4] "ABI3"          "CEBPB"        
+[1] ""
+[1] ""
+> # Examine and visualize PCA results a few different ways
+> PrintPCA(object = pbmc, pcs.print = 1:5, genes.print = 5, use.full = FALSE)
+[1] "PC1"
+[1] "CST3"   "TYROBP" "FCN1"   "LST1"   "AIF1"  
+[1] ""
+[1] "PTPRCAP" "IL32"    "LTB"     "CD2"     "CTSW"   
+[1] ""
+[1] ""
+[1] "PC2"
+[1] "NKG7" "GZMB" "PRF1" "CST7" "GZMA"
+[1] ""
+[1] "CD79A"    "MS4A1"    "HLA-DQA1" "TCL1A"    "HLA-DQB1"
+[1] ""
+[1] ""
+[1] "PC3"
+[1] "PF4"   "PPBP"  "SDPR"  "SPARC" "GNG11"
+[1] ""
+[1] "CYBA"     "HLA-DPA1" "HLA-DPB1" "HLA-DRB1" "CD37"    
+[1] ""
+[1] ""
+[1] "PC4"
+[1] "IL32"   "GIMAP7" "AQP3"   "FYB"    "MAL"   
+[1] ""
+[1] "CD79A"    "HLA-DQA1" "CD79B"    "MS4A1"    "HLA-DQB1"
+[1] ""
+[1] ""
+[1] "PC5"
+[1] "FCER1A"  "LGALS2"  "MS4A6A"  "S100A8"  "CLEC10A"
+[1] ""
+[1] "FCGR3A"        "CTD-2006K23.1" "IFITM3"        "ABI3"          "CEBPB"        
+[1] ""
+[1] ""
+> VizPCA(object = pbmc, pcs.use = 1:2)
+> PCAPlot(object = pbmc, dim.1 = 1, dim.2 = 2)
+> # ProjectPCA scores each gene in the dataset (including genes not included
+> # in the PCA) based on their correlation with the calculated components.
+> # Though we don't use this further here, it can be used to identify markers
+> # that are strongly correlated with cellular heterogeneity, but may not have
+> # passed through variable gene selection.  The results of the projected PCA
+> # can be explored by setting use.full=T in the functions above
+> pbmc <- ProjectPCA(object = pbmc, do.print = FALSE)
+> PCHeatmap(object = pbmc, pc.use = 1, cells.use = 500, do.balanced = TRUE, label.columns = FALSE)
+Warning messages:
+1: In heatmap.2(data.use, Rowv = NA, Colv = NA, trace = "none", col = col.use,  :
+  Discrepancy: Rowv is FALSE, while dendrogram is `both'. Omitting row dendogram.
+2: In heatmap.2(data.use, Rowv = NA, Colv = NA, trace = "none", col = col.use,  :
+  Discrepancy: Colv is FALSE, while dendrogram is `column'. Omitting column dendogram.
+3: In plot.window(...) : "dimTitle" is not a graphical parameter
+4: In plot.xy(xy, type, ...) : "dimTitle" is not a graphical parameter
+5: In title(...) : "dimTitle" is not a graphical parameter
+> PCHeatmap(object = pbmc, pc.use = 1:12, cells.use = 500, do.balanced = TRUE, 
++           label.columns = FALSE, use.full = FALSE)
+There were 24 warnings (use warnings() to see them)
+> # NOTE: This process can take a long time for big datasets, comment out for
+> # expediency.  More approximate techniques such as those implemented in
+> # PCElbowPlot() can be used to reduce computation time
+> pbmc <- JackStraw(object = pbmc, num.replicate = 100, display.progress = FALSE)
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+> JackStrawPlot(object = pbmc, PCs = 1:12)
+An object of class seurat in project 10X_PBMC 
+ 13714 genes across 2638 samples.
+Warning message:
+Removed 17707 rows containing missing values (geom_point). 
+> PCElbowPlot(object = pbmc)
+> # save.SNN = T saves the SNN so that the clustering algorithm can be rerun
+> # using the same graph but with a different resolution value (see docs for
+> # full details)
+> pbmc <- FindClusters(object = pbmc, reduction.type = "pca", dims.use = 1:10, 
++                      resolution = 0.6, print.output = 0, save.SNN = TRUE)
+> PrintFindClustersParams(object = pbmc)
+Parameters used in latest FindClusters calculation run on: 2018-08-25 01:37:23
+=============================================================================
+Resolution: 0.6
+-----------------------------------------------------------------------------
+Modularity Function    Algorithm         n.start         n.iter
+     1                   1                 100             10
+-----------------------------------------------------------------------------
+Reduction used          k.param          prune.SNN
+     pca                 30                0.0667
+-----------------------------------------------------------------------------
+Dims used in calculation
+=============================================================================
+1 2 3 4 5 6 7 8 9 10
+
+> pbmc <- RunTSNE(object = pbmc, dims.use = 1:10, do.fast = TRUE)
+> # note that you can set do.label=T to help label individual clusters
+> TSNEPlot(object = pbmc)
+> saveRDS(pbmc, file = "~/Projects/datasets/pbmc3k/pbmc_tutorial.rds")
+Error in gzfile(file, mode) : cannot open the connection
+In addition: Warning message:
+In gzfile(file, mode) :
+  cannot open compressed file '/Users/bhavyagulati/Projects/datasets/pbmc3k/pbmc_tutorial.rds', probable reason 'No such file or directory'
+> saveRDS(pbmc, file = "~/Projects/datasets/pbmc3k/pbmc_tutorial.rds")
+Error in gzfile(file, mode) : cannot open the connection
+In addition: Warning message:
+In gzfile(file, mode) :
+  cannot open compressed file '/Users/bhavyagulati/Projects/datasets/pbmc3k/pbmc_tutorial.rds', probable reason 'No such file or directory'
+> saveRDS(pbmc, file = "~/Projects/datasets/pbmc3k/pbmc_tutorial.rds")
+> # find all markers of cluster 1
+> cluster1.markers <- FindMarkers(object = pbmc, ident.1 = 1, min.pct = 0.25)
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 19s
+> print(x = head(x = cluster1.markers, n = 5))
+              p_val avg_logFC pct.1 pct.2     p_val_adj
+S100A9  0.00000e+00  3.830954 0.996 0.216  0.000000e+00
+S100A8  0.00000e+00  3.786963 0.973 0.122  0.000000e+00
+LGALS2  0.00000e+00  2.639056 0.908 0.060  0.000000e+00
+FCN1    0.00000e+00  2.367232 0.954 0.151  0.000000e+00
+CD14   5.05283e-289  1.947447 0.662 0.029 6.929451e-285
+> # find all markers distinguishing cluster 5 from clusters 0 and 3
+> cluster5.markers <- FindMarkers(object = pbmc, ident.1 = 5, ident.2 = c(0, 3), 
++                                 min.pct = 0.25)
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 38s
+> print(x = head(x = cluster5.markers, n = 5))
+               p_val avg_logFC pct.1 pct.2     p_val_adj
+GZMB   2.280513e-190  3.195731 0.955 0.084 3.127496e-186
+IGFBP7 1.859718e-155  2.175973 0.542 0.010 2.550417e-151
+GNLY   5.014639e-155  3.515681 0.961 0.143 6.877075e-151
+FGFBP2 5.082837e-150  2.558487 0.852 0.086 6.970603e-146
+SPON2  4.814899e-141  2.191047 0.716 0.053 6.603153e-137
+> # find markers for every cluster compared to all remaining cells, report
+> # only the positive ones
+> pbmc.markers <- FindAllMarkers(object = pbmc, only.pos = TRUE, min.pct = 0.25, 
++                                thresh.use = 0.25)
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 10s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 14s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 09s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 06s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 24s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 19s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 13s
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 17s
+> pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC)
+Error in pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC) : 
+  could not find function "%>%"
+> pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC)
+Error in pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC) : 
+  could not find function "%>%"
+> install.packages("magrittr")
+Error in install.packages : Updating loaded packages
+
+Restarting R session...
+
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+Loading required package: Seurat
+Loading required package: ggplot2
+Loading required package: cowplot
+
+Attaching package: 'cowplot'
+
+The following object is masked from 'package:ggplot2':
+
+    ggsave
+
+Loading required package: Matrix
+> library(magrittr)
+> pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC)
+Error in group_by(., cluster) : could not find function "group_by"
+> library(tidyverse)
+Error in library(tidyverse) : there is no package called 'tidyverse'
+> install.packages("tidyverse")
+also installing the dependencies 'ps', 'xfun', 'rematch', 'processx', 'rprojroot', 'tinytex', 'DBI', 'cellranger', 'callr', 'clipr', 'rmarkdown', 'whisker', 'selectr', 'broom', 'dbplyr', 'forcats', 'haven', 'hms', 'lubridate', 'modelr', 'readr', 'readxl', 'reprex', 'rvest', 'xml2'
+
+
+  There is a binary version available but the source version is later:
+      binary source needs_compilation
+callr  2.0.4  3.0.0             FALSE
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/ps_1.1.0.tgz'
+Content type 'application/x-gzip' length 179351 bytes (175 KB)
+==================================================
+downloaded 175 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/xfun_0.3.tgz'
+Content type 'application/x-gzip' length 143979 bytes (140 KB)
+==================================================
+downloaded 140 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/rematch_1.0.1.tgz'
+Content type 'application/x-gzip' length 12397 bytes (12 KB)
+==================================================
+downloaded 12 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/processx_3.2.0.tgz'
+Content type 'application/x-gzip' length 161701 bytes (157 KB)
+==================================================
+downloaded 157 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/rprojroot_1.3-2.tgz'
+Content type 'application/x-gzip' length 78757 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/tinytex_0.7.tgz'
+Content type 'application/x-gzip' length 78837 bytes (76 KB)
+==================================================
+downloaded 76 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/DBI_1.0.0.tgz'
+Content type 'application/x-gzip' length 876902 bytes (856 KB)
+==================================================
+downloaded 856 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/cellranger_1.1.0.tgz'
+Content type 'application/x-gzip' length 102084 bytes (99 KB)
+==================================================
+downloaded 99 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/clipr_0.4.1.tgz'
+Content type 'application/x-gzip' length 34960 bytes (34 KB)
+==================================================
+downloaded 34 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/rmarkdown_1.10.tgz'
+Content type 'application/x-gzip' length 2804704 bytes (2.7 MB)
+==================================================
+downloaded 2.7 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/whisker_0.3-2.tgz'
+Content type 'application/x-gzip' length 64237 bytes (62 KB)
+==================================================
+downloaded 62 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/selectr_0.4-1.tgz'
+Content type 'application/x-gzip' length 381495 bytes (372 KB)
+==================================================
+downloaded 372 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/broom_0.5.0.tgz'
+Content type 'application/x-gzip' length 1993971 bytes (1.9 MB)
+==================================================
+downloaded 1.9 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/dbplyr_1.2.2.tgz'
+Content type 'application/x-gzip' length 516705 bytes (504 KB)
+==================================================
+downloaded 504 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/forcats_0.3.0.tgz'
+Content type 'application/x-gzip' length 209101 bytes (204 KB)
+==================================================
+downloaded 204 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/haven_1.1.2.tgz'
+Content type 'application/x-gzip' length 937657 bytes (915 KB)
+==================================================
+downloaded 915 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/hms_0.4.2.tgz'
+Content type 'application/x-gzip' length 54861 bytes (53 KB)
+==================================================
+downloaded 53 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/lubridate_1.7.4.tgz'
+Content type 'application/x-gzip' length 1456345 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/modelr_0.1.2.tgz'
+Content type 'application/x-gzip' length 194556 bytes (189 KB)
+==================================================
+downloaded 189 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/readr_1.1.1.tgz'
+Content type 'application/x-gzip' length 2144386 bytes (2.0 MB)
+==================================================
+downloaded 2.0 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/readxl_1.1.0.tgz'
+Content type 'application/x-gzip' length 1498484 bytes (1.4 MB)
+==================================================
+downloaded 1.4 MB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/reprex_0.2.0.tgz'
+Content type 'application/x-gzip' length 395503 bytes (386 KB)
+==================================================
+downloaded 386 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/rvest_0.3.2.tgz'
+Content type 'application/x-gzip' length 880013 bytes (859 KB)
+==================================================
+downloaded 859 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/xml2_1.2.0.tgz'
+Content type 'application/x-gzip' length 930565 bytes (908 KB)
+==================================================
+downloaded 908 KB
+
+trying URL 'https://cran.rstudio.com/bin/macosx/el-capitan/contrib/3.5/tidyverse_1.2.1.tgz'
+Content type 'application/x-gzip' length 88754 bytes (86 KB)
+==================================================
+downloaded 86 KB
+
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+tar: Failed to set default locale
+
+The downloaded binary packages are in
+	/var/folders/mb/sr0_v_m91rl69s32ds5rgy3r0000gn/T//RtmpVlJdTg/downloaded_packages
+installing the source package 'callr'
+
+trying URL 'https://cran.rstudio.com/src/contrib/callr_3.0.0.tar.gz'
+Content type 'application/x-gzip' length 36365 bytes (35 KB)
+==================================================
+downloaded 35 KB
+
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+* installing *source* package 'callr' ...
+** package 'callr' successfully unpacked and MD5 sums checked
+** R
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_TIME failed, using "C" 
+3: Setting LC_MESSAGES failed, using "C" 
+4: Setting LC_MONETARY failed, using "C" 
+* DONE (callr)
+
+The downloaded source packages are in
+	'/private/var/folders/mb/sr0_v_m91rl69s32ds5rgy3r0000gn/T/RtmpVlJdTg/downloaded_packages'
+> install.packages("multidplyr")
+Warning in install.packages :
+  package 'multidplyr' is not available (for R version 3.5.1)
+> pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC)
+Error in group_by(., cluster) : could not find function "group_by"
+> slow <- df %>%
++     group_by(ID, TYPE) %>%
++     filter(n_distinct(USAGE) > 1)
+Error in group_by(., ID, TYPE) : could not find function "group_by"
+> 
+> fast == slow
+Error: object 'fast' not found
+> ID USAGE TYPE
+Error: unexpected symbol in "ID USAGE"
+> library(dplyr)
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+> pbmc.markers %>% group_by(cluster) %>% top_n(2, avg_logFC)
+# A tibble: 16 x 7
+# Groups:   cluster [8]
+       p_val avg_logFC pct.1 pct.2 p_val_adj cluster gene    
+       <dbl>     <dbl> <dbl> <dbl>     <dbl> <fct>   <chr>   
+ 1 1.47e-234      1.15 0.924 0.482 2.01e-230 0       LDHB    
+ 2 3.09e-129      1.07 0.662 0.202 4.24e-125 0       IL7R    
+ 3 0.             3.83 0.996 0.216 0.        1       S100A9  
+ 4 0.             3.79 0.973 0.122 0.        1       S100A8  
+ 5 0.             2.98 0.936 0.042 0.        2       CD79A   
+ 6 1.06e-269      2.49 0.623 0.022 1.45e-265 2       TCL1A   
+ 7 8.03e-207      2.16 0.974 0.23  1.10e-202 3       CCL5    
+ 8 1.12e-181      2.11 0.588 0.05  1.53e-177 3       GZMK    
+ 9 1.04e-172      2.28 0.962 0.137 1.42e-168 4       FCGR3A  
+10 7.13e-123      2.15 1     0.316 9.78e-119 4       LST1    
+11 9.12e-265      3.33 0.955 0.068 1.25e-260 5       GZMB    
+12 6.25e-192      3.76 0.961 0.131 8.57e-188 5       GNLY    
+13 2.51e-238      2.73 0.844 0.011 3.44e-234 6       FCER1A  
+14 7.04e- 21      1.97 1     0.513 9.65e- 17 6       HLA-DPB1
+15 7.73e-200      5.02 1     0.01  1.06e-195 7       PF4     
+16 3.68e-110      5.94 1     0.024 5.05e-106 7       PPBP    
+> cluster1.markers <- FindMarkers(object = pbmc, ident.1 = 0, thresh.use = 0.25, 
++                                 test.use = "roc", only.pos = TRUE)
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 04s
+> VlnPlot(object = pbmc, features.plot = c("MS4A1", "CD79A"))
+> # you can plot raw UMI counts as well
+> VlnPlot(object = pbmc, features.plot = c("NKG7", "PF4"), use.raw = TRUE, y.log = TRUE)
+> FeaturePlot(object = pbmc, features.plot = c("MS4A1", "GNLY", "CD3E", "CD14", 
++                                              "FCER1A", "FCGR3A", "LYZ", "PPBP", "CD8A"), cols.use = c("grey", "blue"), 
++             reduction.use = "tsne")
+> top10 <- pbmc.markers %>% group_by(cluster) %>% top_n(10, avg_logFC)
+> # setting slim.col.label to TRUE will print just the cluster IDS instead of
+> # every cell name
+> DoHeatmap(object = pbmc, genes.use = top10$gene, slim.col.label = TRUE, remove.key = TRUE)
+> current.cluster.ids <- c(0, 1, 2, 3, 4, 5, 6, 7)
+> new.cluster.ids <- c("CD4 T cells", "CD14+ Monocytes", "B cells", "CD8 T cells", 
++                      "FCGR3A+ Monocytes", "NK cells", "Dendritic cells", "Megakaryocytes")
+> pbmc@ident <- plyr::mapvalues(x = pbmc@ident, from = current.cluster.ids, to = new.cluster.ids)
+> TSNEPlot(object = pbmc, do.label = TRUE, pt.size = 0.5)
+> # First lets stash our identities for later
+> pbmc <- StashIdent(object = pbmc, save.name = "ClusterNames_0.6")
+> 
+> # Note that if you set save.snn=T above, you don't need to recalculate the
+> # SNN, and can simply put: pbmc <- FindClusters(pbmc,resolution = 0.8)
+> pbmc <- FindClusters(object = pbmc, reduction.type = "pca", dims.use = 1:10, 
++                      resolution = 0.8, print.output = FALSE)
+Warning message:
+In BuildSNN(object = object, genes.use = genes.use, reduction.type = reduction.type,  :
+  Build parameters exactly match those of already computed and stored SNN. To force recalculation, set force.recalc to TRUE.
+> set force.recalc to TRUE
+Error: unexpected symbol in "set force.recalc"
+> set force.recalc=TRUE
+Error: unexpected symbol in "set force.recalc"
+> # Demonstration of how to plot two tSNE plots side by side, and how to color
+> # points based on different criteria
+> plot1 <- TSNEPlot(object = pbmc, do.return = TRUE, no.legend = TRUE, do.label = TRUE)
+> plot2 <- TSNEPlot(object = pbmc, do.return = TRUE, group.by = "ClusterNames_0.6", 
++                   no.legend = TRUE, do.label = TRUE)
+> plot_grid(plot1, plot2)
+> # Find discriminating markers
+> tcell.markers <- FindMarkers(object = pbmc, ident.1 = 0, ident.2 = 1)
+   |++++++++++++++++++++++++++++++++++++++++++++++++++| 100% elapsed = 02s
+Warning message:
+In grid.draw(x$children[[i]], recording = FALSE) :
+  reached elapsed time limit
+> 
+> # Most of the markers tend to be expressed in C1 (i.e. S100A4). However, we
+> # can see that CCR7 is upregulated in C0, strongly indicating that we can
+> # differentiate memory from naive CD4 cells.  cols.use demarcates the color
+> # palette from low to high expression
+> FeaturePlot(object = pbmc, features.plot = c("S100A4", "CCR7"), cols.use = c("green", 
++                                                                              "blue"))
+> # Find discriminating markers
+> tcell.markers <- FindMarkers(object = pbmc, ident.1 = 0, ident.2 = 1)
+   |++++++++++++++++++++++                            | 44% ~05s          
+
+> pbmc <- SetAllIdent(object = pbmc, id = "ClusterNames_0.6")
+> saveRDS(pbmc, file = "~/Projects/datasets/pbmc3k_final.rds")
